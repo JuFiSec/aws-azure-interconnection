@@ -1,0 +1,7 @@
+{
+  "sql_connection_alert": {
+    "alert_name": "SQL-Connection-Failures",
+    "metric": "connection_failed",
+    "threshold": 5
+  }
+}

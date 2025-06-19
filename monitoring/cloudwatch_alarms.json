@@ -1,0 +1,7 @@
+{
+  "ec2_cpu_alarm": {
+    "alarm_name": "EC2-High-CPU",
+    "metric_name": "CPUUtilization",
+    "threshold": 80
+  }
+}
