@@ -106,7 +106,7 @@ git --version          # Git
 #### 1️⃣ Configuration initiale (5 min)
 ```bash
 # Cloner le projet
-git clone https://github.com/TON-USERNAME/aws-azure-interconnection.git
+git clone https://github.com/JuFiSec/aws-azure-interconnection
 cd aws-azure-interconnection
 
 # Configurer l'environnement
